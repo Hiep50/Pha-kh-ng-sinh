@@ -1,0 +1,6 @@
+{
+  "name": "Pha Kháng Sinh & Tính Liều",
+  "description": "Ứng dụng tra cứu hướng dẫn pha kháng sinh tiêm truyền và tính toán liều lượng tối thiểu, tối đa theo độ tuổi và cân nặng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
